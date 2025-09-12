@@ -3,7 +3,7 @@ Building a modern data warehouse with SQL Server, including ETL processes, data 
 
 Project Requirements:
 
-Building the Data Warehouse (Data Engineering)
+**Building the Data Warehouse (Data Engineering)**
 Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and
 informed decision-making.
@@ -12,7 +12,7 @@ Specifications
 . Data Quality: Cleanse and resolve data quality issues prior to analysis.
 . Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
 
-BI: Analytics & Reporting (Data Analytics)
+**BI: Analytics & Reporting (Data Analytics)**
 Objective
 Develop SQL-based analytics to deliver detailed insights into:
 . Customer Behavior
